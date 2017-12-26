@@ -521,5 +521,8 @@
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
+  
+  <project path="device/TCT/Yaris_M_GSM" name="JohnD80/android_device_TCT_Yaris_M_GSM" revision="cm-13.0" />
+  <project path="vendor/TCT/Yaris_M_GSM" name="JohnD80/android_vendor_TCT_Yaris_M_GSM" revision="cm-13.0" />
 
 </manifest>
